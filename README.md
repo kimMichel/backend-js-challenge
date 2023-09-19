@@ -1,0 +1,8 @@
+- [] Criar um projeto público no github e enviar para dev@e-inscricao.com
+- [] Criar uma conta gratuita no Cloudflare e publicar o worker (não é preciso informar cartão de crédito)
+- [] Utilizar o serviço D1 para armazenar os dados
+- [] Não é permitido importar pacotes externos, toda a solução precisa ser implementada com código próprio (roteamento, acesso a banco, etc).
+- [] Utilizar Typescript
+- [] Criar testes automatizados utilizando Vitest
+- [] Será avaliado a organização do código
+- [] Não criar classes, preferimos uma abordagem funcional
